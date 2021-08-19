@@ -12,6 +12,6 @@ Teachers can save their students details like Name, Date of Birth, Gender
 6. The students list screen shows all the students of the logged in user.
 
 ##ScreenShots:
-<img src ="ScreenShots/welcomepg.jpg" width = 360> <img src ="ScreenShots/loginpg.jpg" width = 360>
-<img src ="ScreenShots/studentListpg.jpg" width = 360> <img src ="ScreenShots/studentRegisterpg.jpg" width = 360>
+<img src ="screenshots/welcomepg.jpg" width = 360> <img src ="screenshots/loginpg.jpg" width = 360>
+<img src ="screenshots/studentListpg.jpg" width = 360> <img src ="screenshots/studentRegisterpg.jpg" width = 360>
 
