@@ -11,7 +11,7 @@ Teachers can save their students details like Name, Date of Birth, Gender
 5. The registration screen save the entered students details into firebase firestore.
 6. The students list screen shows all the students of the logged in user.
 
-##ScreenShots:
+## ScreenShots:
 <img src ="screenshots/welcomepg.jpg" width = 360> <img src ="screenshots/loginpg.jpg" width = 360>
 <img src ="screenshots/studentListpg.jpg" width = 360> <img src ="screenshots/studentRegisterpg.jpg" width = 360>
 
